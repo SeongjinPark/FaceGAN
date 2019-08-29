@@ -22,3 +22,19 @@
 ### [ECCV 2018 oral] GANimation: Anatomically-aware Facial Animation from a Single Image
 
 ### [arXiv 2019] Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://nigos.nist.gov/datasets/ijbc/download?token=QlQbua902N2p9zWElkAu-dRk00EZ5GISHBAshw7F78s%3D
